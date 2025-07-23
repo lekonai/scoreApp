@@ -1,11 +1,9 @@
 <style>
     #backdrop
     {
-        background-color: black;
+        background-color: white;
     }
     
-
-
 </style>
 
 <script lang="ts">
